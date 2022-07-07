@@ -1,6 +1,6 @@
 
 <h1>About</h1>
-<p>Laravel simple multi-tenancy (One Database)</p>
+<p>Laravel-sail simple multi-tenancy (One Database)</p>
 
 <h1>Deployment</h1>
 <ul>
